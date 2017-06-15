@@ -3,6 +3,10 @@ Primer commit en master
 
 Segundo commit en master
 
+--- merge
 Primer commit en develop
 
 Segundo commit en develop
+
+Tercer commit en master
+-----
